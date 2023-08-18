@@ -1,14 +1,12 @@
 <h3>Hi, I'm Jalen 👋</h3>
 
+- 📝 Blog: 
+
 <h3>🛠 Skills, Langugages, & Tools:</h3>
 
 <h3>👨‍💻 Cybersecurity Projects</h3>
 
   - [Active Directory Home Lab](https://github.com/cyberjalen/LABURL)
-
-<h3>📺 Latest Blog Posts</h3>
-
-- 
 
 <h3>📄 Certifications:</h3>
 
