@@ -6,6 +6,10 @@
 
   - [Active Directory Home Lab](https://github.com/cyberjalen/LABURL)
 
+<h2>📺 Latest Blog Posts</h2>
+
+- 
+
 <h2>📄 Certifications</h2>
 
 - [Comptia A+]()
