@@ -1,6 +1,6 @@
 <h2>Hi, I'm Jalen 👋</h2>
 
-<h2>🛠 Skills, Langugages, & Tools</h2>
+<h2>🛠 Skills, Langugages, & Tools:</h2>
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
