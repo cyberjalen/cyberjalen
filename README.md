@@ -1,20 +1,20 @@
-<h2>Hi, I'm Jalen 👋</h2>
+<h3>Hi, I'm Jalen 👋</h3>
 
-<h2>🛠 Skills, Langugages, & Tools:</h2>
+<h3>🛠 Skills, Langugages, & Tools:</h3>
 
-<h2>👨‍💻 Cybersecurity Projects</h2>
+<h3>👨‍💻 Cybersecurity Projects</h3>
 
   - [Active Directory Home Lab](https://github.com/cyberjalen/LABURL)
 
-<h2>📺 Latest Blog Posts</h2>
+<h3>📺 Latest Blog Posts</h3>
 
 - 
 
-<h2>📄 Certifications:</h2>
+<h3>📄 Certifications:</h3>
 
 - [Comptia A+]()
 
-<h2> 🤳 Connect with me:</h2>
+<h3> 🤳 Connect with me:</h3>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
