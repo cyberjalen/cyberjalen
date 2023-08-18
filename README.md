@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jalen! </h1>
+<h2>Hi, I'm Jalen 👋</h2>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
