@@ -1,7 +1,5 @@
 <h3>Hi, I'm Jalen 👋</h3>
 
-- 📝 Blog: 
-
 <h3>🛠 Skills, Langugages, & Tools:</h3>
 
 <h3>👨‍💻 Cybersecurity Projects</h3>
