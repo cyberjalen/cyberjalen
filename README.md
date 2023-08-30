@@ -1,14 +1,10 @@
 <h3>Hi, I'm Jalen 👋</h3>
 
-<h3>🛠 Skills, Langugages, & Tools:</h3>
+A+
 
 <h3>👨‍💻 Cybersecurity Projects</h3>
 
   - [Active Directory Home Lab](https://github.com/cyberjalen/LABURL)
-
-<h3>📄 Certifications:</h3>
-
-- [Comptia A+]()
 
 <h3> 🔗 Connect with me:</h3>
 
@@ -19,6 +15,10 @@
 [linkedin]: https://www.linkedin.com/in/jalen-shi/
 [youtube]: https://www.youtube.com/channel/UCg3_I5q9kSWe34bvDplU6xQ
 [medium]: 
+
+<h3>:writing_hand: Latest Blog Posts </h3>
+
+<h3> 📺 Popular Youtube Videos</h3>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
