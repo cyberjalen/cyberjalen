@@ -1,6 +1,6 @@
 <h3>Hi, I'm Jalen 👋</h3>
 
-A+
+CompTIA A+
 
 <h3>👨‍💻 Cybersecurity Projects</h3>
 
