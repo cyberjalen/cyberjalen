@@ -16,9 +16,11 @@ CompTIA A+
 [youtube]: https://www.youtube.com/channel/UCg3_I5q9kSWe34bvDplU6xQ
 [medium]: https://medium.com/@cyberjalen
 
+<br />
+
 <h3> 🖊️ Latest Blog Posts </h3>
 
-<h3> 📺 Popular Youtube Videos</h3>
+<h3> 📺 Popular Youtube Videos </h3>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
