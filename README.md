@@ -14,7 +14,7 @@ CompTIA A+
 
 [linkedin]: https://www.linkedin.com/in/jalen-shi/
 [youtube]: https://www.youtube.com/channel/UCg3_I5q9kSWe34bvDplU6xQ
-[medium]: 
+[medium]: https://medium.com/@cyberjalen
 
 <h3> 🖊️ Latest Blog Posts </h3>
 
