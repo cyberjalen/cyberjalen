@@ -16,7 +16,7 @@ CompTIA A+
 [youtube]: https://www.youtube.com/channel/UCg3_I5q9kSWe34bvDplU6xQ
 [medium]: 
 
-<h3>:writing_hand: Latest Blog Posts </h3>
+<h3> 🖊️ Latest Blog Posts </h3>
 
 <h3> 📺 Popular Youtube Videos</h3>
 
