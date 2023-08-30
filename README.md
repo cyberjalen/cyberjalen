@@ -10,7 +10,7 @@
 
 - [Comptia A+]()
 
-### 🔗 Connect with me:
+<h3> 🔗 Connect with me:</h3>
 
 [<img align="left" alt="noobpk | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 [<img align="left" alt="noobpk | YouTube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
