@@ -1,7 +1,5 @@
 <h3>Hi, I'm Jalen 👋</h3>
 
-CompTIA A+
-
 <h3>👨‍💻 Cybersecurity Projects</h3>
 
 <h3> 🔗 Connect with me:</h3>
