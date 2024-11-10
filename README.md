@@ -1,4 +1,4 @@
-### >Hi, I'm Jalen 👋</h3>
+### Hi, I'm Jalen 👋</h3>
 
 ### 👨‍💻 My Website </h3>
 
