@@ -8,3 +8,9 @@
 <a href="https://www.comptia.org/certifications/a"> <img src="https://images.credly.com/images/2d9ba442-a3ce-4105-9d69-57f478540f70/CompTIA_A_2B.png" align="center" height="50" width="50" /></a>
 
 <h2 align="center"> 🔗 Connect with me </h2>
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=cyberjalen&&style=flat-square" align="center" />
+</div>  
