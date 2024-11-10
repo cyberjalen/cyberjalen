@@ -2,6 +2,7 @@
 
 <h3>👨‍💻 My Projects</h3>
 
+
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 [<img align="left" alt=" | YouTube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
 [<img align="left" alt=" | Medium" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />][medium]
@@ -13,8 +14,6 @@
 <br />
 
 <h3> 🖊️ Latest Blog Posts </h3>
-
-<h3> 📺 Popular Youtube Videos </h3>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
