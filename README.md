@@ -8,6 +8,11 @@
 <a href="https://www.comptia.org/certifications/a"> <img src="https://images.credly.com/images/2d9ba442-a3ce-4105-9d69-57f478540f70/CompTIA_A_2B.png" align="center" height="50" width="50" /></a>
 
 <h2 align="center"> 🔗 Connect with me </h2>
+<a href="https://github.com/cyberjalen" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
+<a href="https://linkedin.com/in/jalen-shi" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>  
+</div>  
 
 <br/>  
 
