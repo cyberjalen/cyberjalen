@@ -3,5 +3,3 @@
 ### 👨‍💻 My Website </h3>
 
 ### 🔗 Connect with me:
-
-### ✍️ Latest Blog Posts: </h3>
