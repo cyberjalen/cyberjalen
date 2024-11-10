@@ -2,6 +2,6 @@
 
 ### 🧾 Certifications
 
-### 👨‍💻 My Website </h3>
+### 👨‍💻 My Website
 
 ### 🔗 Connect with me
