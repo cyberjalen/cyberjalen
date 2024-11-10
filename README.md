@@ -1,4 +1,4 @@
-### Hi there! I'm Jalen 👋</h3>
+<h1 align="center"> Hi there! I'm Jalen 👋</h3>
 
 ### 🧾 Certifications
 
