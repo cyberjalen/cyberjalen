@@ -7,6 +7,4 @@
 <a href="https://www.credly.com/org/comptia/badge/comptia-a-ce-certification.1"> <img src="https://intellectualpoint.com/wp-content/uploads/2019/04/a-logo-eps.jpg" align="center" height="50" width="50" />
 </div>
 
-<h2 align="center"> 👨‍💻 My Website </h2>
-
 <h2 align="center"> 🔗 Connect with me </h2>
