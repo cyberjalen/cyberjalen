@@ -4,4 +4,4 @@
 
 ### 🔗 Connect with me:
 
-### 🖊️ Latest Blog Posts </h3>
+### ✍️ Latest Blog Posts </h3>
