@@ -2,8 +2,6 @@
 
 <h3>👨‍💻 My Projects</h3>
 
-<br />
-
 <h3> 🖊️ Latest Blog Posts </h3>
 
 <!--
