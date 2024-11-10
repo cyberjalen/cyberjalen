@@ -1,4 +1,5 @@
 <h1 align="center"> Hi there! I'm Jalen 👋</h3>
+<div align="center"> 
 
 <h2 align="center"> 🧾 Certifications </h2>
 <div align="center"> 
