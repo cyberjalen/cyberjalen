@@ -1,7 +1,7 @@
 ### Hi there! I'm Jalen 👋</h3>
 
-### 🧾 Certifications:
+### 🧾 Certifications
 
 ### 👨‍💻 My Website </h3>
 
-### 🔗 Connect with me:
+### 🔗 Connect with me
