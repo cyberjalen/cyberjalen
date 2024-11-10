@@ -4,4 +4,4 @@
 
 <h3>🚀 My Wesbite (in progress)</h3>
 
-<h3>🖊️ Latest Blog Posts (also on website) </h3>
+<h3>🖊️ Latest Blog Posts (included on website) </h3>
