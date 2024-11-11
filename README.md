@@ -10,6 +10,7 @@
 <a href="https://nmap.org/"> <img src="https://www.uvexplorer.com/wp-content/uploads/2023/07/nmap-logo-256x256-1.png" align="center" height="50" /></a>
 <a href="https://www.wireshark.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wireshark_icon_new.png/768px-Wireshark_icon_new.png" align="center" height="45" /></a>
 <a href="https://www.apple.com/mac/"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png" align="center" height="50" /></a>
+<a href="https://www.microsoft.com/en-us/windows"> <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/windows-512.png" align="center" height="50" /></a>
 </div>
 
 <h2 align="center"> DevOps </h2>
