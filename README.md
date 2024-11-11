@@ -17,8 +17,8 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>
-<a href="https://www.apple.com/mac/"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png" align="center" height="50" /></a>
-<a href="https://www.microsoft.com/en-us/windows"> <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/windows-512.png" align="center" height="50" /></a>
+<a href="https://www.microsoft.com/en-us/windows" target="_blank"><img style="margin: 10px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/windows-512.png" alt="Azure" height="50" /></a>
+<a href=""https://www.apple.com/mac/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png" alt="Azure" height="50" /></a>
 </div>
 
 <h2 align="center"> Frontend and Backend </h2>
