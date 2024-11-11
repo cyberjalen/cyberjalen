@@ -9,7 +9,8 @@
 <div align="center"> 
 <a href="https://nmap.org/"> <img src="https://www.uvexplorer.com/wp-content/uploads/2023/07/nmap-logo-256x256-1.png" align="center" height="50" /></a>
 <a href="https://www.wireshark.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wireshark_icon_new.png/768px-Wireshark_icon_new.png" align="center" height="45" /></a>
-  <a href="https://www.tenable.com/products/nessus"> <img src="https://d7umqicpi7263.cloudfront.net/img/product/379987ee-15e3-4170-85fc-8bf23574ba35.com/7d5ba597ca3ec8478301f69901e1bda0" align="center" height="40" /></a>
+<a href="https://www.tenable.com/products/nessus"> <img src="https://d7umqicpi7263.cloudfront.net/img/product/379987ee-15e3-4170-85fc-8bf23574ba35.com/7d5ba597ca3ec8478301f69901e1bda0" align="center" height="40" /></a>
+<a href="https://www.kali.org/"> <img src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/08/kali-linux-dragon-logo.png" align="center" height="50" /></a>
 </div>
 
 <h2 align="center"> DevOps </h2>
@@ -19,7 +20,7 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img style="margin: 10px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/windows-512.png" alt="Azure" height="50" /></a>
-<a href=""https://www.apple.com/mac/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png" alt="Azure" height="50" /></a>
+<a href="https://www.apple.com/mac/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png" alt="Azure" height="50" /></a>
 </div>
 
 <h2 align="center"> Frontend and Backend </h2>
