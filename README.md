@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there! I'm Jalen 👋 </h1>
 
-### <div align="center">I'm a full-time cybersecurity student 👨‍💻 looking for active opportunities 🚀</div>  
+### <div align="center">A full-time cybersecurity student 👨‍💻 looking for active opportunities 🚀</div>  
 
 <h2 align="center"> Certifications </h2>
 <div align="center"> 
