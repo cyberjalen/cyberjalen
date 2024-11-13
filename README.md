@@ -1,5 +1,7 @@
 <h1 align="center"> Hi there! I'm Jalen 👋 </h1>
 
+### <div align="center">A full-time cybersecurity student 👨‍💻 looking for active opportunities 🚀</div>  
+
 <h2 align="center"> Certifications </h2>
 <div align="center"> 
 <a href="https://www.comptia.org/certifications/security"> <img src="https://images.credly.com/images/446e08ae-bbb5-4648-b85d-24b9a939eb8d/CompTIA_Security_2B.png" align="center" height="50" /></a>
